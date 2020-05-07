@@ -13,7 +13,7 @@ You can use this GUI tool to shutdown or restart your computer.
 4. If you need to cancel the operation click the Abort button
 
 # TODO
-Add other common computer tasks. The idea is simply interacting with the Windows API from Python to get things done faster.\
+Add other common computer tasks. The idea is simply interacting with the Windows API from Python to get things done faster. <br><br>
 
 ![shutdown_timer](https://raw.githubusercontent.com/TempleOkosun/shutdown_timer/master/shutdown.png)
 
