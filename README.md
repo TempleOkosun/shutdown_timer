@@ -16,5 +16,5 @@ You can use this GUI tool to shutdown or restart your computer.
 Add other common computer tasks. The idea is simply interacting with the Windows API from Python to get things done faster. 
 <br><br>
 
-![shutdown_timer](https://raw.githubusercontent.com/TempleOkosun/shutdown_timer/master/shutdown.png)
+![shutdown_timer](https://raw.githubusercontent.com/TempleOkosun/shutdown_timer/master/shutdown_timer.png)
 
